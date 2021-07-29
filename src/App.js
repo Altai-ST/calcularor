@@ -1,11 +1,10 @@
-import {Calculator1} from './components/Calculator1'
-import {Calculator2} from './components/Calculator2'
+
+import {Calculator} from './components/Calculator'
 
 function App() {
   return (
     <div className="App">
-      <Calculator1/>
-      <Calculator2/>
+      <Calculator/>
     </div>
   );
 }
